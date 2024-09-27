@@ -1,0 +1,132 @@
+body{
+font-family: 'Roboto', sans-serif;
+color: #434455;
+background-color: #ffffff;
+font-size: 16px;
+line-height: 1.5;
+}
+a{
+    text-decoration: none;
+}
+h1,
+h2,
+h3
+ {
+    font-family: 'Raleway', sans-serif;
+    color: #1a1a1a;
+ }
+ h1{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.2;
+ }
+ .button{
+    border-radius: 4px;
+    padding: 16px 32px;
+    width: 169px;
+    height: 56px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4d5ae5;
+    color: #fff;
+ }
+ .logo{
+    font-family: "Raleway",sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+    color:#4d5ae5;
+ }
+ .logo-studio{
+    color: #2e2f42;
+ }
+ .navigation{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2e2f42;
+ }
+ .navigation-link{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+ }
+ .address{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+ }
+ .section-one{
+    background-color: #2e2f42;
+    color: #fff;
+    width: 1440px;
+    height: 600px;
+ }
+.section-two{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+.section-two-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #434455;
+}
+.ur-team-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    color: #2e2f42;
+}
+.our-team-etem{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+}
+.our-team-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2e2f42;
+}
+ .portfolio-title{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.1;
+    color: #2e2f42;
+ }
+ .portfolio-etem{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #2e2f42;
+ }
+ .portfolio-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #2e2f42;
+ }
+ .footer{
+    width: 1440px;
+    height: 312px;
+    background-color: #2e2f42;
+ }
+ .footer-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #f4f4fd;
+ }
+ .logo-two{
+    color: #fff;
+ }
