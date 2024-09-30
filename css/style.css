@@ -8,13 +8,6 @@ line-height: 1.5;
 a{
     text-decoration: none;
 }
-h1,
-h2,
-h3
- {
-    font-family: 'Raleway', sans-serif;
-    color: #1a1a1a;
- }
  h1{
     font-weight: 700;
     font-size: 56px;
