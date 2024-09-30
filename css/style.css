@@ -47,8 +47,8 @@ a{
    letter-spacing: 0.02em;
    color:#434455;
  }
- .address-list:hover
- .address-list:focus{
+ .address-list a:hover
+ .address-list a:focus{
    color: #404bbf;
  }
  .section-one{
