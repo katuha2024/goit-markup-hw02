@@ -28,8 +28,8 @@ a{
     letter-spacing: 0.02em;
     color: #2e2f42;
  }
- .na-list:hover,
- .nav-list:focus{
+ .na-link:hover,
+ .nav-link:focus{
    color: #404bbf;
  }
  .address{
