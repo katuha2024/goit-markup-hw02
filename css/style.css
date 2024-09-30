@@ -28,8 +28,8 @@ a{
     letter-spacing: 0.02em;
     color: #2e2f42;
  }
- .nav-link-list a:hover,
- .nav-link-list a:focus{
+ .nav-link-list:hover,
+ .nav-link-list:focus{
    color: #404bbf;
  }
  .address{
@@ -47,8 +47,8 @@ a{
    letter-spacing: 0.02em;
    color:#434455;
  }
- .address-list a:hover,
- .address-list a:focus{
+ .address-list:hover,
+ .address-list:focus{
    color: #404bbf;
  }
  .section-one{
