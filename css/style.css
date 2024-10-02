@@ -112,7 +112,7 @@ a{
 .our-team-list{
    background-color: #ffffff;
 }
-.our-team-etem{
+.our-team-h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -135,7 +135,7 @@ a{
     text-transform: capitalize;
     color: #2e2f42;
  }
- .portfolio-etem{
+ .portfolio-h3{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
