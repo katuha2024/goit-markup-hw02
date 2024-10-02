@@ -97,17 +97,26 @@ a{
     letter-spacing: 0.02em;
     color: #434455;
 }
-
+.our-team{
+   background-color: #f4f4fd;
+}
 .our-team-title{
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.1;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
     color: #2e2f42;
+}
+.our-team-list{
+   background-color: #ffffff;
 }
 .our-team-etem{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
 }
 .our-team-text{
@@ -115,7 +124,7 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
  .portfolio-title{
     font-weight: 700;
@@ -130,13 +139,15 @@ a{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     color: #2e2f42;
  }
  .portfolio-text{
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
-    color: #2e2f42;
+    letter-spacing: 0.02em;
+    color: #434455;
  }
  .footer{
     width: 1440px;
