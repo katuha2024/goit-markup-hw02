@@ -98,7 +98,7 @@ a{
 .our-team{
    background-color: #f4f4fd;
 }
-.our-team-h2{
+.our-team-h{
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -110,7 +110,7 @@ a{
 .our-team-list{
    background-color: #ffffff;
 }
-.our-team-h3{
+.our-team-h{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -133,7 +133,7 @@ a{
     text-transform: capitalize;
     color: #2e2f42;
  }
- .portfolio-h3{
+ .portfolio-h{
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
